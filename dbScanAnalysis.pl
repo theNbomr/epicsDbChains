@@ -1,4 +1,8 @@
 #! /usr/bin/perl -w
+#
+#	This file is the forerunner to the dbScanChain tool. No longer useful.
+#	(RN 2025-May-04)
+#
 
 use strict;
 
